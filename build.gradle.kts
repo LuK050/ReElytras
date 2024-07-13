@@ -4,13 +4,14 @@ plugins {
     kotlin("jvm") version "1.9.23"
 
     application
+    `java-library`
     id("io.papermc.paperweight.userdev") version "1.7.1"
     id("net.minecrell.plugin-yml.bukkit") version "0.6.0"
-    id("com.github.johnrengelman.shadow") version "7.0.0"
+    id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
 group = "ru.luk.reelytras"
-version = "0.0.1"
+version = "1.0"
 
 application {
     mainClass.set("$group.ReElytras")
@@ -45,7 +46,8 @@ tasks {
     }
 
     withType<com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar> {
-        enabled = false
+        @Suppress("deprecation", "RedundantSuppression")
+        archiveFileName.set("ReElytras-$version.jar")
     }
 
     compileJava {
