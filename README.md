@@ -1,5 +1,5 @@
 # ReElytras
-Vanilla balancing of the elytras mechanics. Allows you to customize elitres repairs, speed-up, and some other aspects of the game with elitres
+Vanilla balancing of the elytras mechanics. Allows you to customize elitres repairs, speed-up, and some other aspects of the game with elitres!
 <br>
 ### Configuration:
 ```yaml
