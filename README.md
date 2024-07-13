@@ -43,4 +43,4 @@ permanentDestroy: false
 ・**/reelytras reload** - plugin reload.<br>
 ・**/reelytras info** - plugin information.<br>
 
-#### Icon by [cheharka](https://purcat.monster/)
+#### ❤️ Icon by [cheharka](https://purcat.monster/)
