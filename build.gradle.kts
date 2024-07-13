@@ -29,7 +29,7 @@ dependencies {
 bukkit {
     load = BukkitPluginDescription.PluginLoadOrder.STARTUP
     main = application.mainClass.get()
-    apiVersion = "1.17"
+    apiVersion = "1.20"
     authors = listOf("_LuK__")
 
     commands.create("reelytras") {
