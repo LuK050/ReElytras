@@ -20,7 +20,7 @@ class PluginCommand : CommandExecutor, TabExecutor {
             }
 
             "info" -> {
-                sender.sendMessage("${ChatColor.GRAY}Author ${ChatColor.DARK_GRAY}> ${ChatColor.WHITE}lluk\n${ChatColor.GRAY}Version ${ChatColor.DARK_GRAY}> ${ChatColor.WHITE}1.0")
+                sender.sendMessage("${ChatColor.GRAY}Author ${ChatColor.DARK_GRAY}> ${ChatColor.WHITE}lluk\n${ChatColor.GRAY}Version ${ChatColor.DARK_GRAY}> ${ChatColor.WHITE}1.1")
             }
         }
         return true

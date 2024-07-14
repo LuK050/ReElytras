@@ -23,6 +23,8 @@ class ReElytras : JavaPlugin() {
         var allowUnificationRepairInGrindstone by Delegates.notNull<Boolean>()
         var playDestroySound by Delegates.notNull<Boolean>()
         var permanentDestroy by Delegates.notNull<Boolean>()
+        var allowElytras by Delegates.notNull<Boolean>()
+        var allowElytrasWhenRaining by Delegates.notNull<Boolean>()
         var repairWithPhantomMembranePercent by Delegates.notNull<Int>()
         var damagePerSecond by Delegates.notNull<Int>()
     }
@@ -46,6 +48,8 @@ class ReElytras : JavaPlugin() {
         allowUnificationRepairInGrindstone = config.getBoolean("allowUnificationRepairInGrindstone")
         playDestroySound = config.getBoolean("playDestroySound")
         permanentDestroy = config.getBoolean("permanentDestroy")
+        allowElytras = config.getBoolean("allowElytras")
+        allowElytrasWhenRaining = config.getBoolean("allowElytrasWhenRaining")
         repairWithPhantomMembranePercent = config.getInt("repairWithPhantomMembranePercent")
         damagePerSecond = config.getInt("damagePerSecond")
 

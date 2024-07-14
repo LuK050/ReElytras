@@ -1,4 +1,4 @@
-# ReElytras: v1.0
+# ReElytras: v1.1
 # Author: lluk
 
 # Is it possible to accelerate on a trident using riptide enchantment or fireworks
@@ -35,3 +35,11 @@ damagePerSecond: 1
 # The elitres will disappear from the player's inventory if they break down
 # Default: false
 permanentDestroy: false
+
+# Is it possible to glide on elytras? The value is false to completely prohibit flight on elytras
+# Default: true
+allowElytras: true
+
+# Is it possible to slide on the elytra during the rain?
+# Default: true
+allowElytrasWhenRaining: true
