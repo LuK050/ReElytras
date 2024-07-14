@@ -1,4 +1,5 @@
 # ReElytras
+#### [Modrinth](https://modrinth.com/plugin/reelytras/) ・ [SpigotMC](https://www.spigotmc.org/resources/reelytras.118030/) ・ [CurseForge](https://modrinth.com/plugin/reelytras/)
 Balance the usage of elytras on your server. Flexibly adjust the repair, movement and some rules for their use
 
 ### Configuration:
