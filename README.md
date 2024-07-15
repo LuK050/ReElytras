@@ -1,5 +1,5 @@
-# ReElytras
-#### [Modrinth](https://modrinth.com/plugin/reelytras/) ・ [SpigotMC](https://www.spigotmc.org/resources/reelytras.118030/) ・ [CurseForge](https://curseforge.com/minecraft/bukkit-plugins/reelytras)
+# ReElytras [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=000000)](https://modrinth.com/plugin/reelytras/) [![SpigotMC](https://img.shields.io/badge/SpigotMC-ED8106?style=for-the-badge&logo=spigotmc&logoColor=000000)](https://www.spigotmc.org/resources/reelytras.118030/) [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=000000)](https://curseforge.com/minecraft/bukkit-plugins/reelytras)
+
 Balance the usage of elytras on your server. Flexibly adjust the repair, movement and some rules for their use
 
 ### Configuration:
